@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-konichiwa.inc ("we", "us") built the “Тест Влад А4” app as a Free app. This SERVICE
+konichiwa.inc ("we", "us") built the “А4 ТЕСТ. Хорошо-ли ты знаешь А4?” app as a Free app. This SERVICE
 is provided by konichiwa.inc at no cost and is intended for use as is. 
 This page is used to inform visitors regarding our policies with the collection, use, and
 disclosure of Personal Information if anyone decided to use our Service.
